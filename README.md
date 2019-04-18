@@ -1,0 +1,1 @@
+#This contains Jpa Single Table Inheritance Project
